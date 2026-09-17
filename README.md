@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Bonjour, je suis Marine !
 
-<!--
-**marineroussin/marineroussin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis étudiante en 3ème année de Bachelor en ingénierie numérique (spécialisation Game Dev) à l'ISEN Méditerranée.
 
-Here are some ideas to get you started:
+Créative, j'adore concevoir des expériences interactives de A à Z, que ce soit par le Game Design, la modélisation 2D/3D, le dessin mais aussi dans le développement. D'un naturel curieuse et inspirée par mes voyages, je n'ai pas peur de m'engager à 100 % pour relever de nouveaux défis techniques et artistiques. Je m'épanouis d'ailleurs aussi bien dans la synergie du travail en équipe qu'en totale autonomie.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je recherche activement :
+- Une alternance (disponibilité immédiate, en tranche de deux semaines en entreprise - deux semaines à l'école) 
+- OU un stage de 6 mois en Développement / Game Design (dès janvier/février 2027)
+
+Mes Outils & mes Compétences :
+- Moteurs : Unity (AR/VR), Unreal Engine
+- Langages : C#, C++, C, Python, PHP
+- Art & Audio : Blender, Fmod, Dessin traditionnel & digital
+- Design : Level Design, Narrative Design, UX/UI VR, Concept Art
+
+Mes Projets Récents
+N'hésitez pas à consulter mes dépôts épinglés ci-dessous pour découvrir mes créations (AR, VR, 3D) ! 
+
+🔗 Vous pouvez également retrouver mon parcours détaillé sur mon profil LinkedIn(https://www.linkedin.com/in/marine-roussin07/).
